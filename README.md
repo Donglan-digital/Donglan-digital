@@ -4,10 +4,14 @@
 - <b>Cloud Computing</b> and developing my technical skills in AWS, Azure, Python, Git, DevSecOps and automation.
 
 <h2>👨‍💻Projects:</h2>
+- <b>Chinese Hangman game</b>
+
+- [a little Python game to learn some Chinese sentences](https://github.com/Donglan-digital/Chinese_hangman_python)
+
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="DonglanLiang | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/donglan-liang-589271324/
 
