@@ -1,4 +1,4 @@
-<h1>Donglan (Ella) LIANG<br/>Junior Cloud Practitioner</a> | Tech Enthusiast</a> | Woman in Tech</a></h1>
+<h1>Donglan (Ella)<br/>Junior Cloud Practitioner</a> | Tech Enthusiast</a> | Woman in Tech</a></h1>
 
 <h2>🌱 I’m currently learning:</h2> 
 - <b>Cloud Computing</b> and developing my technical skills in AWS, Azure, Python, Git, Docker, Kubernetes and Terraform.
