@@ -1,7 +1,7 @@
 <h1>Donglan (Ella)<br/>Junior Cloud Practitioner</a> | Tech Enthusiast</a> | Woman in Tech</a></h1>
 
-<h2>🌱More about me: https://donglantechie.me/</h2> 
-- <b>I’m currently learning: Cloud Computing</b> and developing my technical skills in AWS, Azure, Python, Git, Docker, Kubernetes and Terraform.
+<h2>🌱More About Me: https://donglantechie.me/</h2> 
+- <b>I’m currently learning:</b> Cloud Computing and developing my technical skills in AWS, Azure, Python, Git, Docker, Kubernetes and Terraform.
 
 <h2>👨‍💻Projects:</h2>
 - <b>Chinese Hangman game</b>
