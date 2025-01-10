@@ -6,7 +6,7 @@
 <h2>👨‍💻Projects:</h2>
 - <b>Chinese Hangman game</b>
 
-- [a little Python game to learn some Chinese sentences](https://github.com/Donglan-digital/Chinese_hangman_python)
+- [a little Python game to learn some Chinese sentences](https://chinese-hangman-game.azurewebsites.net/)
 
 
 <h2> 🤳 Connect with me:</h2>
