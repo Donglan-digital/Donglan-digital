@@ -11,9 +11,9 @@
 
 <h2>👨‍💻Projects:</h2>
 <p><b>🎮Chinese Hangman game</b></p>
-  - [a python game to learn Chinese sentences](https://chinese-hangman-game.azurewebsites.net/)</p>
+<a href="https://chinese-hangman-game.azurewebsites.net/">a python game to learn Chinese sentences</a></p>
 <p><b>📝Chinese Word Flashcards</b></p>
-  - [a python flashcard web application to help learners memorise Chinese words](https://chinese-flashcards.azurewebsites.net/)</p>
+<a href="https://chinese-flashcards.azurewebsites.net/">a python flashcard web application to help learners memorise Chinese words</a></p>
 
 <h2> 🤳 Connect with me:</h2>
 
