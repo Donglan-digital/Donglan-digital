@@ -10,9 +10,10 @@
 - My transition proves that it’s never too late to pursue what excites you—even in your 40s!<br>
 
 <h2>👨‍💻Projects:</h2>
-- <b>Chinese Hangman game</b>
-
+🎮<b>Chinese Hangman game</b>
 - [a python game to learn Chinese sentences](https://chinese-hangman-game.azurewebsites.net/)
+
+📝<b>Chinese Word Flashcards</b>
 - [a python flashcard web application to help learners memorise Chinese words](https://chinese-flashcards.azurewebsites.net/)
 
 
