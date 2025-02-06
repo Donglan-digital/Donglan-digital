@@ -1,12 +1,19 @@
-<h1>Donglan (Ella)<br/>Junior Cloud Practitioner</a> | Tech Enthusiast</a> | Woman in Tech</a></h1>
+<h1>Donglan (Ella)<br/>Lifelong Learner</a> | Tech Enthusiast</a> | Woman in Tech</a>| Chinese Teacher</a></h1>
 
-<h2>🌱More About Me: https://donglantechie.me/</h2> 
-- <b>I’m currently learning:</b> Cloud Computing and developing my technical skills in AWS, Azure, Python, Git, Docker, Kubernetes and Terraform.
+<h2>🌱About Me: https://donglantechie.me/</h2> 
+- I spent over a decade teaching Chinese to primary school students before transitioning into tech in 2024.
+- To kickstart my career change, I completed a cloud computing bootcamp, where I developed skills in programming, automation, and problem-solving.
+- I’m currently learning:
+👍Python for web development and data manipulation
+👍HTML, CSS, JavaScript, and Node.js for building web applications
+- While I’m still on my journey to securing a hands-on role in tech, I’ve discovered a true passion for the field.
+- My transition proves that it’s never too late to pursue what excites you—even in your 40s!
 
 <h2>👨‍💻Projects:</h2>
 - <b>Chinese Hangman game</b>
 
-- [a little Python game to learn some Chinese sentences](https://chinese-hangman-game.azurewebsites.net/)
+- [a python game to learn Chinese sentences](https://chinese-hangman-game.azurewebsites.net/)
+- [a python flashcard web application to help learners memorise Chinese words](https://chinese-flashcards.azurewebsites.net/)
 
 
 <h2> 🤳 Connect with me:</h2>
