@@ -1,13 +1,13 @@
 <h1>Donglan (Ella)<br/>Lifelong Learner</a> | Tech Enthusiast</a> | Woman in Tech</a>| Chinese Teacher</a></h1>
 
 <h2>🌱About Me: https://donglantechie.me/</h2> 
-- I spent over a decade teaching Chinese to primary school students before transitioning into tech in 2024.
-- To kickstart my career change, I completed a cloud computing bootcamp, where I developed skills in programming, automation, and problem-solving.
-- I’m currently learning:
-👍Python for web development and data manipulation
-👍HTML, CSS, JavaScript, and Node.js for building web applications
-- While I’m still on my journey to securing a hands-on role in tech, I’ve discovered a true passion for the field.
-- My transition proves that it’s never too late to pursue what excites you—even in your 40s!
+- I spent over a decade teaching Chinese to primary school students before transitioning into tech in 2024.<br>
+- To kickstart my career change, I completed a cloud computing bootcamp, where I developed skills in programming, automation, and problem-solving.<br>
+- I’m currently learning:<br>
+👍Python for web development and data manipulation<br>
+👍HTML, CSS, JavaScript, and Node.js for building web applications<br>
+- While I’m still on my journey to securing a hands-on role in tech, I’ve discovered a true passion for the field.<br>
+- My transition proves that it’s never too late to pursue what excites you—even in your 40s!<br>
 
 <h2>👨‍💻Projects:</h2>
 - <b>Chinese Hangman game</b>
