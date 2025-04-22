@@ -14,7 +14,8 @@
 <a href="https://chinese-hangman-game.azurewebsites.net/">a python game to learn Chinese sentences</a></p>
 <p><b>📝Chinese Word Flashcards</b></p>
 <a href="https://chinese-flashcards.azurewebsites.net/">a python flashcard web application to help learners memorise Chinese words</a></p>
-
+<p><b>Little Mandarin Buddy</b></p>
+<a href="https://child-chatbot-aneahubvf9bjgwh3.australiasoutheast-01.azurewebsites.net/">a collaborative project using python, html, css and llm models.
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="DonglanLiang | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
