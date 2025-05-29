@@ -1,4 +1,4 @@
-<h1>Donglan (Ella)<br/></h1><h2>Lifelong Learner</a> | Tech Enthusiast</a> | Woman in Tech</a>| Aspiring Developer </a></h2>
+<h1>Donglan (Ella)<br/></h1><h2>Lifelong Learner</a> | Aspiring Developer </a> | Tech Enthusiast</a> | Woman in Tech</a></h2>
 
 <h2>🌱About Me: https://donglantechie.me/</h2> 
 - I spent over a decade teaching Chinese to primary school students before transitioning into tech.<br>
