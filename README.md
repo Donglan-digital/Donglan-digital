@@ -5,7 +5,7 @@
 - To kickstart my career change, I completed a cloud computing bootcamp, and then a python bootcamp, and then a diploma of IT (in progress),and many more bootcamps and projects...<br>
 - I’m currently learning:<br>
 👍Python for web development and data manipulation<br>
-👍Full-stack web development with HTML, CSS, JavaScript, React, and .NET and more of those will bring my creativity to life...<br>
+👍Full-stack web development with HTML, CSS, JavaScript, React, and .NET and many more that will bring my creativity to life...<br>
 - While I’m still on my journey to securing a hands-on role in tech, I’ve discovered a true passion for the field.<br>
 - My transition proves that it’s never too late to pursue what excites you—even in your 40s!<br>
 
