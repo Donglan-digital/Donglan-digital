@@ -1,15 +1,15 @@
-<h1>Donglan (Ella)<br/></h1><h2>Lifelong Learner</a> | Tech Enthusiast</a> | Woman in Tech</a>| Chinese Teacher</a></h2>
+<h1>Donglan (Ella)<br/></h1><h2>Lifelong Learner</a> | Tech Enthusiast</a> | Woman in Tech</a>| Aspiring Developer </a></h2>
 
 <h2>🌱About Me: https://donglantechie.me/</h2> 
-- I spent over a decade teaching Chinese to primary school students before transitioning into tech in 2024.<br>
-- To kickstart my career change, I completed a cloud computing bootcamp, where I developed skills in programming, automation, and problem-solving.<br>
+- I spent over a decade teaching Chinese to primary school students before transitioning into tech.<br>
+- To kickstart my career change, I completed a cloud computing bootcamp, and then a python bootcamp, and then a diploma of IT (in progress),and many more bootcamps and projects...<br>
 - I’m currently learning:<br>
 👍Python for web development and data manipulation<br>
-👍HTML, CSS, JavaScript, and Node.js for building web applications<br>
+👍Full-stack web development with HTML, CSS, JavaScript, React, and .NET and more of those will bring my creativity to life...<br>
 - While I’m still on my journey to securing a hands-on role in tech, I’ve discovered a true passion for the field.<br>
 - My transition proves that it’s never too late to pursue what excites you—even in your 40s!<br>
 
-<h2>👨‍💻Projects:</h2>
+<h2>👨‍💻Some old projects😛</h2>
 <p><b>🎮Chinese Hangman game</b></p>
 <a href="https://chinese-hangman-game.azurewebsites.net/">a python game to learn Chinese sentences</a></p>
 <p><b>📝Chinese Word Flashcards</b></p>
